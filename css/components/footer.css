@@ -1,0 +1,45 @@
+.footer{
+    background:#f8f9fa;
+}
+
+.footer-logo{
+    font-size:2rem;
+    font-weight:700;
+    margin-bottom:15px;
+}
+
+.footer-text{
+    color:#6c757d;
+    line-height:1.7;
+}
+
+.footer h5{
+    font-weight:600;
+    margin-bottom:18px;
+}
+
+.footer ul li{
+    margin-bottom:10px;
+}
+
+.footer a{
+    text-decoration:none;
+    color:#6c757d;
+    transition:.3s;
+}
+
+.footer a:hover{
+    color:#000;
+}
+
+.footer .form-control{
+    border-radius:8px 0 0 8px;
+}
+
+.footer .btn{
+    border-radius:0 8px 8px 0;
+}
+
+.footer hr{
+    opacity:.15;
+}

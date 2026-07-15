@@ -1,0 +1,36 @@
+.hero{
+    padding:120px 0;
+    background:#ffffff;
+}
+
+.hero-badge{
+    display:inline-block;
+    background:#f3f4f6;
+    color:#495057;
+
+    padding:8px 18px;
+    border-radius:50px;
+
+    font-size:.9rem;
+    font-weight:600;
+}
+
+.hero-title{
+    font-size:4rem;
+    font-weight:700;
+    line-height:1.2;
+    color:#212529;
+}
+
+.hero-description{
+    font-size:1.2rem;
+    color:#6c757d;
+    max-width:650px;
+    margin:auto;
+    line-height:1.8;
+}
+
+.hero-buttons .btn{
+    padding:12px 28px;
+    border-radius:10px;
+}

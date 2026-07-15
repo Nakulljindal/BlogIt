@@ -1,0 +1,60 @@
+
+
+.blog-image img{
+    height:500px;
+    object-fit:cover;
+}
+
+.blog-title{
+    font-size:3rem;
+    font-weight:700;
+    line-height:1.2;
+    margin-bottom:20px;
+}
+
+.blog-meta{
+    display:flex;
+    gap:30px;
+    color:#6c757d;
+    font-size:0.95rem;
+}
+
+.blog-description{
+    font-size:1.2rem;
+    color:#555;
+    line-height:1.8;
+    font-style:italic;
+}
+
+.blog-content{
+    font-size:1.12rem;
+    line-height:2;
+    color:#333;
+}
+
+.blog-content p{
+    margin-bottom:25px;
+}
+
+.badge{
+    font-size:.9rem;
+    padding:8px 15px;
+    border-radius:20px;
+}
+
+@media(max-width:768px){
+
+    .blog-title{
+        font-size:2.2rem;
+    }
+
+    .blog-image img{
+        height:300px;
+    }
+
+    .blog-meta{
+        flex-direction:column;
+        gap:8px;
+    }
+
+}

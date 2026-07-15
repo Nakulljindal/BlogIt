@@ -1,0 +1,29 @@
+body{
+    background:#f8f9fa;
+}
+
+.card{
+    border:none;
+    border-radius:12px;
+}
+
+.card-body{
+    padding:25px;
+}
+
+.table th{
+    font-weight:600;
+}
+
+.table td{
+    vertical-align:middle;
+}
+
+.badge{
+    padding:8px 14px;
+    font-size:.8rem;
+}
+
+.btn{
+    border-radius:8px;
+}

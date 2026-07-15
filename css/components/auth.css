@@ -1,0 +1,31 @@
+.auth-card{
+    border:none;
+    border-radius:14px;
+}
+
+.auth-card .card-body{
+    padding:40px;
+}
+
+.form-control{
+    height:50px;
+    border-radius:8px;
+}
+
+.form-control:focus{
+    box-shadow:none;
+    border-color:#212529;
+}
+
+.btn{
+    border-radius:8px;
+    padding:12px;
+}
+
+a{
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}

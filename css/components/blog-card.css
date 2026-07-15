@@ -1,0 +1,38 @@
+.blog-card{
+    border:none;
+    border-radius:14px;
+    overflow:hidden;
+    transition:.3s;
+}
+
+.blog-card:hover{
+    transform:translateY(-6px);
+    box-shadow:0 .75rem 1.5rem rgba(0,0,0,.12)!important;
+}
+
+.blog-card img{
+    height:220px;
+    object-fit:cover;
+}
+
+.blog-card .badge{
+    width:fit-content;
+    padding:8px 12px;
+    border-radius:20px;
+    font-weight:500;
+}
+
+.blog-card .card-title{
+    font-size:1.35rem;
+    font-weight:700;
+    margin-bottom:15px;
+}
+
+.blog-card .card-text{
+    color:#6c757d;
+    line-height:1.7;
+}
+
+.blog-card .btn{
+    border-radius:8px;
+}
