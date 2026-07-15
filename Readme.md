@@ -2,6 +2,8 @@
 
 BlogIt is a PHP and MySQL blog publishing app built with Bootstrap 5. It lets users create an account, log in, write posts with cover images, browse published blogs, and manage their own content from a dashboard.
 
+Project URL: https://blogit.freedev.app/
+
 ## Features
 
 - User sign up and login with password hashing
